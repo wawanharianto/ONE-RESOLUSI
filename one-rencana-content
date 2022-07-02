@@ -3,6 +3,9 @@ RENCANA KONTEN ONE
 -javascript
   *ES6
   *Framework Javascript
+  ^Vue
 - fundamental data structur
 -php framework
+ ^laravel
 -iterview
+- python
